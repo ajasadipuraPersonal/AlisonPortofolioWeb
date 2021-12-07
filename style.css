@@ -397,7 +397,7 @@
     rgba(0,0,0,0),
     rgba(17,17,17,0.6) 100%),
     /* left image */
-  url('/images/spongebob.jpg');
+  url('./images/spongebob.jpg');
   background-size: cover;
   position: relative;
   color: #fff;
@@ -409,7 +409,7 @@
     to bottom,
     rgba(0,0,0,0),
     rgba(17,17,17,0.6) 100%),
-  url('/images/spirited.jpg');
+  url('./images/spirited.jpg');
 
 }
 
